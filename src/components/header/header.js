@@ -3,9 +3,9 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 
 
-import MobileSocialLinks from "./MobileSocialLinks"
+// import MobileSocialLinks from "./MobileSocialLinks"
 import MobilePageLinks from "./MobilePageLinks"
-import SocialLinks from "./SocialLinks"
+// import SocialLinks from "./SocialLinks"
 import MobileBio from "./MobileBio"
 import "./header.css"
 
@@ -35,9 +35,9 @@ const Header = ({ siteTitle, tagline, author, contacts }) => {
             {siteTitle}
           </Link>
         </h1>
-        <SocialLinks contacts={contacts} />
+        {/* <SocialLinks contacts={contacts} /> */}
       </div>
-      <MobileSocialLinks contacts={contacts} />
+      {/* <MobileSocialLinks contacts={contacts} /> */}
       <MobilePageLinks />
       <MobileBio author={author} />
     </header>
