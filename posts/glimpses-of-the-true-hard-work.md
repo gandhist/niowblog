@@ -5,23 +5,13 @@ published: true
 date: "2021-08-19"
 ---
 
-this is only glimpses of my hard work
+this is only glimpses of my hard work, broken orbital bones, broken zygomatic arch, swallowed teeth, broken feet, broken fingers, this has been a war zone
 <br>
 
 ```javascript
-let a = "test"
-```
-
-```javascript{numberLines: true}
-// In your gatsby-config.js
-plugins: [
-  {
-    resolve: `gatsby-transformer-remark`,
-    options: {
-      plugins: [`gatsby-remark-prismjs`],
-    },
-  },
-]
+while (!success()) {
+  keepTry()
+}
 ```
 
 Inline images in markdown supported as well.
