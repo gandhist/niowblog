@@ -7,7 +7,7 @@ module.exports = {
   copyright: "© 2021 Niowcode, All rights reserved",
   author: {
     name: "Niowcode",
-    bio: "I am not good at programming, but i am just bad at giving up.",
+    bio: "I am not good at programming, but i am just bad at giving up. ",
     contacts: {
       linkedin: "https://www.linkedin.com/in/gandhi-saputra-21ab23136/",
       github: "https://github.com/gandhist",
