@@ -1,7 +1,7 @@
 "use strict"
 
 module.exports = {
-  url: "https://developer-diary.netlify.com",
+  url: "https://niowblog.gatsbyjs.io",
   title: "Niowcode",
   tagline: "Never stop learning",
   copyright: "© 2021 Niowcode, All rights reserved",

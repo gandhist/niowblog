@@ -7,7 +7,7 @@ module.exports = {
     url: siteConfig.url,
     title: siteConfig.title,
     tagline: siteConfig.tagline,
-    description: `A blog template for web developers that's ready to go out of the box. Feel free to modify it to your liking.`,
+    description: `A blog for sharing about tech & experiences karena ilmu akan lebih mudah diingat apablia ditulis.`,
     author: siteConfig.author.name,
     contacts: {
       linkedin: siteConfig.author.contacts.linkedin,
